@@ -1,0 +1,7 @@
+geckodriver
+*.log
+*.apkg
+.venv
+.env
+*.txt
+*.apkg
